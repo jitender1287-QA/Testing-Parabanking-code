@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-21T13:17:55 IST" name="Default suite" finished-at="2024-05-21T13:18:12 IST" duration-ms="16303">
+    <groups>
+    </groups>
+    <test started-at="2024-05-21T13:17:55 IST" name="Default test" finished-at="2024-05-21T13:18:12 IST" duration-ms="16303">
+      <class name="Banking_parabank_Test.Register_Account_Test01">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:Banking_parabank_Test.Register_Account_Test01@1bb266b3]" started-at="2024-05-21T13:17:55 IST" name="setupbrowser" finished-at="2024-05-21T13:18:04 IST" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method signature="launch_Url()[pri:1, instance:Banking_parabank_Test.Register_Account_Test01@1bb266b3]" started-at="2024-05-21T13:18:04 IST" name="launch_Url" finished-at="2024-05-21T13:18:09 IST" duration-ms="5043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Url -->
+        <test-method signature="Test_Register_account()[pri:2, instance:Banking_parabank_Test.Register_Account_Test01@1bb266b3]" started-at="2024-05-21T13:18:09 IST" name="Test_Register_account" finished-at="2024-05-21T13:18:12 IST" duration-ms="2637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Register_account -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Banking_parabank_Test.Register_Account_Test01@1bb266b3]" started-at="2024-05-21T13:18:12 IST" name="teardown" finished-at="2024-05-21T13:18:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Banking_parabank_Test.Register_Account_Test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
